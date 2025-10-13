@@ -8,7 +8,7 @@ Use [**KernelSU-Next**](https://github.com/KernelSU-Next/KernelSU-Next) for bett
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li>A simple module that turns off most logd（Including lsposed-it logd</li>
+ <li>A simple module that turns off most logd（Including lsposed-it logd)</li>
  <li> Changes the temperature limit to 45 (can be modified in service.sh, +15 is the temperature wall)</li>
  <li> Removes the floating window limit</li>
  <li> Turns off battery heating</li>
